@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKGh+FLMBrg=",
+  "success": true,
+  "projectFilePath": "/home/skye/Practice/FrequencyHash/FrequencyHash.csproj",
+  "expectedPackageFiles": [
+    "/home/skye/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

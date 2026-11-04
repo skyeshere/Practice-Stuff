@@ -1,0 +1,14 @@
+/home/skye/Practice/FrequencyHash/bin/Debug/net10.0/FrequencyHash
+/home/skye/Practice/FrequencyHash/bin/Debug/net10.0/FrequencyHash.deps.json
+/home/skye/Practice/FrequencyHash/bin/Debug/net10.0/FrequencyHash.runtimeconfig.json
+/home/skye/Practice/FrequencyHash/bin/Debug/net10.0/FrequencyHash.dll
+/home/skye/Practice/FrequencyHash/bin/Debug/net10.0/FrequencyHash.pdb
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/FrequencyHash.GeneratedMSBuildEditorConfig.editorconfig
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/FrequencyHash.AssemblyInfoInputs.cache
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/FrequencyHash.AssemblyInfo.cs
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/FrequencyHash.csproj.CoreCompileInputs.cache
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/FrequencyHash.dll
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/refint/FrequencyHash.dll
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/FrequencyHash.pdb
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/FrequencyHash.genruntimeconfig.cache
+/home/skye/Practice/FrequencyHash/obj/Debug/net10.0/ref/FrequencyHash.dll
