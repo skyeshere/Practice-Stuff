@@ -1,13 +1,8 @@
-
+/*
+    THIS CODE HAS BEEN TAKEN FROM G4G AND HAS BEEN USED FOR BETTER UNDERSTANDING OF THIS ALGORITHM
+*/
 public class QuicksortClass
 {
-    public long[] arr;
-
-    public QuicksortClass(long[] arr)
-    {
-        this.arr = arr;
-    }
-
     public void swap(long[] array, int i, int j)
     {
         long temp = array[i];
